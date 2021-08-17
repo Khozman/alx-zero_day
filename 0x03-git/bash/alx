@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< 
 echo "ALX School is so cool!"
-||||||| 708920a
-echo "ALX"
-=======
-echo "ALX School"
->>>>>>> update_script
